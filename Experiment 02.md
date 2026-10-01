@@ -5,7 +5,7 @@ Aim
 To develop a lexical analyzer using a C program to identify whether a given line is a comment or not.
 
 Program
-
+```
 #include <stdio.h>
 #include <string.h>
 int main()
@@ -47,6 +47,7 @@ int main()
     }
     return 0;
 }
+```
 
 Output:
 
