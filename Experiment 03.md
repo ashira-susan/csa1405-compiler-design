@@ -1,3 +1,4 @@
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -122,5 +123,6 @@ int main()
 
     return 0;
 }
+```
 
 <img width="290" height="405" alt="image" src="https://github.com/user-attachments/assets/902de8be-00c8-49de-abb9-cf2a1a94a7f4" />
